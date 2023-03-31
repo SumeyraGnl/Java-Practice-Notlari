@@ -1,6 +1,6 @@
 package week05;
 
-public class P05_methodCreation {
+public class P05_WhileLoop {
 
     // While loop kullanarak 2 basamakli 7 ile bolunebilen pozitif tamsayilari
     //yazdirin.

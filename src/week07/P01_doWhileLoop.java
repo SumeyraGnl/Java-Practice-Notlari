@@ -1,4 +1,4 @@
-package week06;
+package week07;
 
 public class P01_doWhileLoop {
     public static void main(String[] args) {

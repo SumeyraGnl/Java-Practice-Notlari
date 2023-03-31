@@ -1,6 +1,6 @@
-package week06;
+package week08;
 
-public class P03_WiseMarket {
+public class P04_Arrays {
     public static void main(String[] args) {
 
     }
